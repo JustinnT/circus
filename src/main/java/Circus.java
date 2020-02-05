@@ -1,6 +1,4 @@
-package circus;
-
-import circus.Cannon;
+import circus.*;
 
 public class Circus {
     private static Animal[] animals = {

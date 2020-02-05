@@ -1,3 +1,5 @@
+package circus;
+
 import circus.Animal;
 
 public class Parrot extends Animal.Bird implements Asset {

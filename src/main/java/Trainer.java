@@ -1,5 +1,6 @@
 import circus.Animal;
 import circus.Duck;
+import circus.Parrot;
 
 public class Trainer {
     public static void main(String[] args) {
